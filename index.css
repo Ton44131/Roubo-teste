@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+.center {
+    text-align: center;
+    justify-content: center;
+
+}
+input {
+    border-radius: 10px;
+    padding: 0px 40px;
+}
+h1 {
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
